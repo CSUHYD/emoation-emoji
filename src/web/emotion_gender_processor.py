@@ -15,6 +15,7 @@ from utils.inference import load_detection_model
 from utils.inference import load_image
 from utils.preprocessor import preprocess_input
 
+
 def process_image(image):
 
     try:
